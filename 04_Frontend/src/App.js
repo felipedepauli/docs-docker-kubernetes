@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
     	<h1>Go fuck yourself!</h1>
+		<div>SLKA!!</div>
     </div>
   );
 }
